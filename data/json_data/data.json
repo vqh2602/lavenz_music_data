@@ -1,8 +1,9 @@
 {
-  "version_data": "1.0.3.5",
+  "version_data": "1.0.0",
   "date": "26/02/2023",
   "version_app": ["1.0.0","1.0.1"],
-  "data": [
+  "data":[
+
   {
     "id": 1,
     "name": "Bird 1",
@@ -803,7 +804,7 @@
     "name": "Bosque pajarocarpintero",
     "describe": " ",
     "sound": "bosque_pajarocarpintero.ogg",
-    "image": "noun-bird-1048621",
+    "image": "noun-bird-1048621.svg",
     "tag": [
       2
     ],
@@ -1206,7 +1207,7 @@
     "name": "Musical andantino",
     "describe": " ",
     "sound": "musical_andantino.ogg",
-    "image": "noun-relax-3893416",
+    "image": "noun-relax-3893416.svg",
     "tag": [
       3
     ],
@@ -1218,7 +1219,7 @@
     "name": "Musical deeprelax",
     "describe": " ",
     "sound": "musical_deeprelax.ogg",
-    "image": "noun-relax-3893416",
+    "image": "noun-relax-3893416.svg",
     "tag": [
       3
     ],
@@ -1230,7 +1231,7 @@
     "name": "Musical gymnopedie",
     "describe": " ",
     "sound": "musical_gymnopedie.ogg",
-    "image": "noun-sports-2819599",
+    "image": "noun-sports-2819599.svg",
     "tag": [
       3
     ],
@@ -1443,7 +1444,7 @@
     "name": "Playa remos",
     "describe": " ",
     "sound": "playa_remos.ogg",
-    "image": "noun-paddle-1206373",
+    "image": "noun-paddle-1206373.svg",
     "tag": [
       5,
       7
@@ -2358,6 +2359,817 @@
     ],
     "vip": true,
     "type": 1
+  },
+  {
+    "id": 191,
+    "name": "Bầu trời đầy sao",
+    "describe": " ",
+    "sound": "peacefulgarden.mp3",
+    "image": "902a7cc9c4bc9f31024c7475c13b5f31.jpg",
+    "tag": [
+      12
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 192,
+    "name": "Tình yêu đích thực",
+    "describe": " ",
+    "sound": "ms01.mp3",
+    "image": "0153d6f4c7efdd9f8aa1a56d7278ccb1.jpg",
+    "tag": [
+      12
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 193,
+    "name": "Búp bê",
+    "describe": " ",
+    "sound": "ADoll'sBeginning.mp3",
+    "image": "e761884e2386a1dfb7c43ba4a2ddfdb0.jpg",
+    "tag": [
+      13
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 194,
+    "name": "Những lời không thể nói",
+    "describe": " ",
+    "sound": "unspokenWords.mp3",
+    "image": "d35e8f581f006c58d171f20e3db7aba1.jpg",
+    "tag": [
+      14
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 195,
+    "name": "Tưởng Nhớ",
+    "describe": " ",
+    "sound": "InRemembrance.mp3",
+    "image": "0007ea8d1b4f087ce93f4e5e7ef635e5.jpg",
+    "tag": [
+      14
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 196,
+    "name": "Bầu trời vô tận",
+    "describe": " ",
+    "sound": "DeepSleepCalmingRelaxingandSoothingMusic.mp3",
+    "image": "",
+    "tag": [
+      12,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 197,
+    "name": "Suy tư",
+    "describe": " ",
+    "sound": "MinuteSuperDeepMeditationMusic.mp3",
+    "image": "9ea757e518f794bfdb58def29bc212c5.jpg",
+    "tag": [
+      12,
+      16
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 198,
+    "name": "Lofi relax 1",
+    "describe": " ",
+    "sound": "CHILL_LOFI_SOUND.mp3",
+    "image": "dd95fdf1e47504c434c0a7e759c46baf.jpg",
+    "tag": [
+      12
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 199,
+    "name": "Không gian linh hồn",
+    "describe": " ",
+    "sound": "DeepSleepin10MinutesSleep.mp3",
+    "image": "496be08e014ab481351e79ed81f5ba35.jpg",
+    "tag": [
+      12,
+      16,
+      15
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 200,
+    "name": "OM",
+    "describe": " ",
+    "sound": "15MinutesOMMeditation.mp3",
+    "image": "6f96b861a62d37cec56513e60530f8cd.jpg",
+    "tag": [
+      16
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 201,
+    "name": "Tình yêu ở nơi đâu?",
+    "describe": " ",
+    "sound": "WHERE_MY_LOVE.mp3",
+    "image": "165a712429c6fd2a87be9ee62a184591.jpg",
+    "tag": [
+      14
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 202,
+    "name": "Bức tượng",
+    "describe": " ",
+    "sound": "VisionsofGideon10min.mp3",
+    "image": "e7ef03a7a20ec354bc791e4278af604f.jpg",
+    "tag": [
+      14
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 203,
+    "name": "Buồn",
+    "describe": " ",
+    "sound": "SadPianoMusic.mp3",
+    "image": "ec96e5f1682c91c7df29e71134b0b103.jpg",
+    "tag": [
+      14
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 204,
+    "name": "Mất đi trái tim",
+    "describe": " ",
+    "sound": "oneheart.mp3",
+    "image": "7d773a68c6d5f27e495dae057d463239.jpg",
+    "tag": [
+      14,
+      12
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 205,
+    "name": "Bừng sáng",
+    "describe": " ",
+    "sound": "aglow.mp3",
+    "image": "82f94ca615dde77ffb2e7226f83db795.jpg",
+    "tag": [
+      12,
+      14,
+      16
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 206,
+    "name": "Kết thúc",
+    "describe": " ",
+    "sound": "close.mp3",
+    "image": "b32886ede8accf67c79702d4a14baf2d.jpg",
+    "tag": [
+      12,
+      14,
+      15
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 207,
+    "name": "Thước phim buồn",
+    "describe": " ",
+    "sound": "SadCinematic.mp3",
+    "image": "8ac1dd793b41d9bd397f20f0693273b0.jpg",
+    "tag": [
+      12,
+      14
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 208,
+    "name": "Tôi muốn cậu",
+    "describe": " ",
+    "sound": "iWantY.mp3",
+    "image": "13bbc63ddf091ddc95586996a536c121.jpg",
+    "tag": [
+      13
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 209,
+    "name": "Quá khứ",
+    "describe": " ",
+    "sound": "SadEmotional.mp3",
+    "image": "483484605b371264ee9110cb669a3f78.jpg",
+    "tag": [
+      14
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 210,
+    "name": "Áp lực cuộc sống",
+    "describe": " ",
+    "sound": "SadEpicEmotional.mp3",
+    "image": "683c2d9752625019063ee5403b4ae2ce.jpg",
+    "tag": [
+      14
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 211,
+    "name": "Mưa xoá quá khứ",
+    "describe": " ",
+    "sound": "SoundofRain.mp3",
+    "image": "0600f774ec403dc14d6eb2d7886abe0b.jpg",
+    "tag": [
+      14,
+      18
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 212,
+    "name": "Dòng suối",
+    "describe": " ",
+    "sound": "SleepMeditation.mp3",
+    "image": "4e29551408f594fb48bee48885ab14a1.jpg",
+    "tag": [
+      12,
+      13,
+      15,
+      16,
+      17,
+      18
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 213,
+    "name": "Tự do",
+    "describe": " ",
+    "sound": "Healing.mp3",
+    "image": "c45d432b9081519d648e8dea67d586ca.jpg",
+    "tag": [
+      12,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 214,
+    "name": "Hòn đảo tự do",
+    "describe": " ",
+    "sound": "Ocean.mp3",
+    "image": "9710e808cffd595d96c8d136107a0dc0.jpg",
+    "tag": [
+      12,
+      13,
+      15,
+      16,
+      17,
+      18
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 215,
+    "name": "Vũ trụ",
+    "describe": " ",
+    "sound": "vutru.mp3",
+    "image": "8e6e0b3964548962f6e231f27d9e1252.jpg",
+    "tag": [
+      12,
+      13,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 216,
+    "name": "Bầu trời giấc mơ",
+    "describe": " ",
+    "sound": "SkyfulofDreams.mp3",
+    "image": "01a5dcfbcfd3a1a429111c02ecbfab42.jpg",
+    "tag": [
+      12,
+      13,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 217,
+    "name": "Dải ngân hà",
+    "describe": " ",
+    "sound": "Breksta.mp3",
+    "image": "1bb1113a68bbe691ba99a910c260e268.jpg",
+    "tag": [
+      12,
+      13,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 218,
+    "name": "Tịnh tâm",
+    "describe": " ",
+    "sound": "RootChakraCleansing.mp3",
+    "image": "42daf46c3c4b0ff99e11343ea4b76381.jpg",
+    "tag": [
+      15,
+      16
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 219,
+    "name": "Thế giới loài chim",
+    "describe": " ",
+    "sound": " BirdSongs.mp3",
+    "image": "6005dd5f12f09cceeeb3bdbe52401af3.jpg",
+    "tag": [
+      12,
+      13,
+      16,
+      17,
+      18
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 220,
+    "name": "Thác nước",
+    "describe": " ",
+    "sound": "thacnuoc.mp3",
+    "image": "de9346b5a6f46fe30dcf0d0d407314df.jpg",
+    "tag": [
+      12,
+      13,
+      16,
+      17,
+      18
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 221,
+    "name": "Bồ công anh",
+    "describe": " ",
+    "sound": "Nature.mp3",
+    "image": "af9452b57464a4fbd897880fd2e0f9db.jpg",
+    "tag": [
+      12,
+      13,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 222,
+    "name": "Tập trung",
+    "describe": " ",
+    "sound": "HealingNature.mp3",
+    "image": "97fb701d91191119e0c86b3e8a0422b3.jpg",
+    "tag": [
+      14,
+      15,
+      16
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 223,
+    "name": "Trong veo",
+    "describe": " ",
+    "sound": "RelaxingMusic.mp3",
+    "image": "832ca390fc72b8e644ef91d867e8fa8b.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 224,
+    "name": "Mùa thu",
+    "describe": " ",
+    "sound": "AutumnFog-RelaxingpianomusicCalmingMusicRelaxingmusic.mp3",
+    "image": "e7dc979d750b5dae358d75444e46d6a9.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 225,
+    "name": "Qua ô của sổ",
+    "describe": " ",
+    "sound": "AmbientMusic-peacefulcalmpianomusicstudyfocus.mp3",
+    "image": "d85f6ff24aadfbd88288c7266c2c028a.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 226,
+    "name": "Xinh đẹp",
+    "describe": " ",
+    "sound": "BeautifulPianoMusicMusicforStressReliefMeditationMusicMusicforreadingandstudying.mp3",
+    "image": "f917ad52b8a56f0c47cd31dcd9b51001.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 227,
+    "name": "Bầu trời",
+    "describe": " ",
+    "sound": "Beautifulrelaxingmusic-AntidepressiveMusic-Antistressmusic.mp3",
+    "image": "832192ec5a509616ad655b0d6004d981.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 228,
+    "name": "Hoàn hôn tháng 11",
+    "describe": " ",
+    "sound": "BeautifulRelaxingMusicPeacefulInstrumentalMusic",
+    "NovemberRelax": ".mp3",
+    "image": "b1390892f03c1bc5472c43dc5ccbe8ba.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 229,
+    "name": "Bình minh",
+    "describe": " ",
+    "sound": "BeautifulRelaxingMusicPeacefulSoothingInstrumentalMusic.mp3",
+    "image": "624b9d13765164121e181ca4513226c2.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 230,
+    "name": "Sương sớm",
+    "describe": " ",
+    "sound": "BeautifulRelaxingPianoMusicForStressReliefStudyandMeditation.mp3",
+    "image": "d3bac5dcc6a97dc11d73498bfee96c0d.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 231,
+    "name": "Giấc ngủ",
+    "describe": " ",
+    "sound": "DeepSleepCalmingRelaxingandSoothingMusic.mp3",
+    "image": "58332fc2bf5e7bd234c08643f2bbbc67.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 232,
+    "name": "Bình minh cánh rừng",
+    "describe": " ",
+    "sound": "HealingMusic♪PianoMusicForStressReliefPositiveEnergyMeditationMusicSleepMusic.mp3",
+    "image": "36a06c7549c30df4ded6ace89a980cf7.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 233,
+    "name": "Mặt trời trên biển",
+    "describe": " ",
+    "sound": "Morningrelaxingpianomusic.mp3",
+    "image": "7822074b3886583de12c80b4d0ab795e.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 234,
+    "name": "Biển lặng",
+    "describe": " ",
+    "sound": "Relaxmusicforstudyingfocusworkrelaxingstressreliefspacalmmindmusic.mp3",
+    "image": "a4a9edba8c0fa5d55eaf80e883ae239e.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 235,
+    "name": "Tuyết rơi",
+    "describe": " ",
+    "sound": "RelaxingChristmasSoftPianoMusicSleepCalmRelax.mp3",
+    "image": "4df0090b1c70821c8bded638ec44ee47.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 236,
+    "name": "Một ngày mưa",
+    "describe": " ",
+    "sound": "RelaxingMusic&RainSounds-BeautifulPianoMusicBackgroundMusicSleepMusic•You&Me.mp3",
+    "image": "26d13889247809ff4fa4fa4bebe420c4.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 237,
+    "name": "Căn phòng",
+    "describe": " ",
+    "sound": "RelaxingPianoandViolinMusicForStudyandFocus.mp3",
+    "image": "683a7eeba5e6105d82a44dd205490bbf.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 238,
+    "name": "Rừng phong",
+    "describe": " ",
+    "sound": "RelaxingPianoMusic•SleepMusicMeditationMusicBackgroundMusicStudyMusic.mp3",
+    "image": "4f5500a9130d4b9f8d4bf2da50d1777b.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 239,
+    "name": "Caffe",
+    "describe": " ",
+    "sound": "RelaxingPianoMusicMusicforStressReliefMeditationMusicMusicforreadingandstudying.mp3",
+    "image": "e39575d90aabf77afd9cb71fda8b11c8.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 240,
+    "name": "Ngọn núi",
+    "describe": " ",
+    "sound": "RelaxingPianoMusicMeditationMusicRelaxingMusicSoftMusicRelaxationMusic.mp3",
+    "image": "0c65bf4d868d4df06900e51bae62eda6.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 241,
+    "name": "Cánh đồng hoa",
+    "describe": " ",
+    "sound": "SlowPeacefulandCalmingPianoMusic-StudyReadSleepMeditation.mp3",
+    "image": "1e7f648e730e4de980f1e17ee79da6c5.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 242,
+    "name": "Chiều tối",
+    "describe": " ",
+    "sound": "SoothingSleepMusicRelaxingPianoMusicSleepingMusicFallAsleep.mp3",
+    "image": "27abba72d5ee30780f716fe871e8320d.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 243,
+    "name": "Lạc",
+    "describe": " ",
+    "sound": "TheForestMaiden(SoloPiano).mp3",
+    "image": "501aa00adff1bf485bdc594d040b5b96.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
+  },
+  {
+    "id": 244,
+    "name": "Mùa đông",
+    "describe": " ",
+    "sound": "Winterchill-PianoMusic•SleepMusicMeditationMusicBackgroundMusicStudyMusic.mp3",
+    "image": "a16c040e0ea95737b8b287ab1a4440ef.jpg",
+    "tag": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "vip": true,
+    "type": 2
   }
-]
+
+  ]
 }
