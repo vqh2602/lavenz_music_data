@@ -1,8 +1,23 @@
 {
-	"version_data": "1.0.2",
+  "version_data": "1.0.3",
   "date": "26/02/2023",
-  "version_app": ["1.0.0","1.0.1"],
-  "size":"100Mb",
-  "link":"https://vqh2602.github.io/lavenz_music_data.github.io/release/data.zip"
-
+  "version_app": [
+    "1.0.0",
+    "1.0.1"
+  ],
+  "size": "100Mb",
+  "link": [
+    {
+      "name": "one",
+      "url": "https://onedrive.live.com/download?cid=EEBC4A52660DBF6C&resid=EEBC4A52660DBF6C%2148492&authkey=ADUa9AmLv2cbkuQ"
+    },
+    {
+      "name": "box",
+      "url": "https://dl.dropboxusercontent.com/s/cf2glexxk8tz7zj/data.zip?dl=0"
+    },
+    {
+      "name": "goog",
+      "url": "https://www.googleapis.com/drive/v3/files/1IrdSuB90ZcdTHJwxQTYtsakPBGs50t-K?alt=media&key=AIzaSyAZaQFwLTbQVKf8cSKcfwfu5cSmC4cLTfI"
+    }
+  ]
 }
