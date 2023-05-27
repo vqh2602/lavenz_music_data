@@ -1,5 +1,5 @@
 {
-  "version_data": "1.0.5",
+  "version_data": "1.0.6",
   "date": "26/02/2023",
   "version_app": [
     "1.0.0",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": 149,
-      "name": "Thở thư giãn",
+      "name": "5.4hz",
       "describe": "Thở thư giãn",
       "sound": "binaural1.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1863,7 +1863,7 @@
     },
     {
       "id": 150,
-      "name": "Giảm lo lắng",
+      "name": "8.6hz",
       "describe": "Giảm lo lắng",
       "sound": "binaural2.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1875,7 +1875,7 @@
     },
     {
       "id": 151,
-      "name": "Kích thích minh mẫn",
+      "name": "12hz",
       "describe": "Kích thích minh mẫn",
       "sound": "binaural3.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1887,7 +1887,7 @@
     },
     {
       "id": 152,
-      "name": "Giảm căng thẳng",
+      "name": "3.5hz",
       "describe": "Giảm căng thẳng",
       "sound": "binaural4.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1899,7 +1899,7 @@
     },
     {
       "id": 153,
-      "name": "Kích thích sáng tạo",
+      "name": "6hz",
       "describe": "Kích thích sáng tạo",
       "sound": "binaural5.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1911,7 +1911,7 @@
     },
     {
       "id": 154,
-      "name": "Trạng thái thiền định",
+      "name": "0.1hz",
       "describe": "Trạng thái thiền định",
       "sound": "binaural6.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1923,7 +1923,7 @@
     },
     {
       "id": 155,
-      "name": "Giấc ngủ sâu",
+      "name": "3.4hz",
       "describe": "Giấc ngủ sâu",
       "sound": "binaural7.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1935,7 +1935,7 @@
     },
     {
       "id": 156,
-      "name": "Phổ tần số",
+      "name": "432hz",
       "describe": "Phổ tần số",
       "sound": "binaural8.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1947,7 +1947,7 @@
     },
     {
       "id": 157,
-      "name": "Chữa bệnh dna",
+      "name": "528hz",
       "describe": "Chữa bệnh dna",
       "sound": "binaural9.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1959,7 +1959,7 @@
     },
     {
       "id": 158,
-      "name": "Châm cứu",
+      "name": "2hz",
       "describe": "Châm cứu",
       "sound": "isocronico_acupuntura.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1971,7 +1971,7 @@
     },
     {
       "id": 159,
-      "name": "Vòng tuần hoàn",
+      "name": "5.9hz",
       "describe": "Vòng tuần hoàn",
       "sound": "isocronico_circulacion.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1983,7 +1983,7 @@
     },
     {
       "id": 160,
-      "name": "Giảm trầm cảm",
+      "name": "15.4hz",
       "describe": "Giảm trầm cảm",
       "sound": "isocronico_depresion.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1995,7 +1995,7 @@
     },
     {
       "id": 161,
-      "name": "Sự thông minh",
+      "name": "73hz",
       "describe": "Sự thông minh",
       "sound": "isocronico_inteligencia.mp3",
       "image": "noun-sound-1560834.svg",
@@ -2007,7 +2007,7 @@
     },
     {
       "id": 162,
-      "name": "Đau đầu",
+      "name": "23hz",
       "describe": "Đau đầu",
       "sound": "isocronico_jaqueca.mp3",
       "image": "noun-sound-1560834.svg",
@@ -2019,7 +2019,7 @@
     },
     {
       "id": 163,
-      "name": "Sự tái tạo",
+      "name": "144hz",
       "describe": "Sự tái tạo",
       "sound": "isocronico_regeneracion.mp3",
       "image": "noun-sound-1560834.svg",

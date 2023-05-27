@@ -1,5 +1,5 @@
 {
-  "version_data": "1.0.5",
+  "version_data": "1.0.6",
   "date": "26/02/2023",
   "version_app": [
     "1.0.0",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": 149,
-      "name": "Relaxed breathing",
+      "name": "5.4hz",
       "describe": "Breathe Relaxing",
       "sound": "binaural1.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1863,7 +1863,7 @@
     },
     {
       "id": 150,
-      "name": "Reduces stress and anxiety",
+      "name": "8.6hz",
       "describe": "Reduce anxiety",
       "sound": "binaural2.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1875,7 +1875,7 @@
     },
     {
       "id": 151,
-      "name": "Stimylates mental clarity",
+      "name": "12hz",
       "describe": "Stimulating alertness",
       "sound": "binaural3.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1887,7 +1887,7 @@
     },
     {
       "id": 152,
-      "name": "Remedy for depression and anxiety",
+      "name": "3.5hz",
       "describe": "Reduce stress",
       "sound": "binaural4.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1899,7 +1899,7 @@
     },
     {
       "id": 153,
-      "name": "Stimulates creativity",
+      "name": "6hz",
       "describe": "Stimulate creativity",
       "sound": "binaural5.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1911,7 +1911,7 @@
     },
     {
       "id": 154,
-      "name": "Meditation state",
+      "name": "0.1hz",
       "describe": "meditative state",
       "sound": "binaural6.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1923,7 +1923,7 @@
     },
     {
       "id": 155,
-      "name": "Deep sleep",
+      "name": "3.4hz",
       "describe": "Deep sleep",
       "sound": "binaural7.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1935,7 +1935,7 @@
     },
     {
       "id": 156,
-      "name": "Universal frequency",
+      "name": "432hz",
       "describe": "Frequency spectrum",
       "sound": "binaural8.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1947,7 +1947,7 @@
     },
     {
       "id": 157,
-      "name": "DNA Healing",
+      "name": "528hz",
       "describe": "cure dna",
       "sound": "binaural9.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1959,7 +1959,7 @@
     },
     {
       "id": 158,
-      "name": "Isocronico acupuntura",
+      "name": "2hz",
       "describe": "Acupuncture",
       "sound": "isocronico_acupuntura.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1971,7 +1971,7 @@
     },
     {
       "id": 159,
-      "name": "Isocronico circulacion",
+      "name": "5.9hz",
       "describe": "Circulation",
       "sound": "isocronico_circulacion.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1983,7 +1983,7 @@
     },
     {
       "id": 160,
-      "name": "Isocronico depresion",
+      "name": "15.4hz",
       "describe": "Reduce depression",
       "sound": "isocronico_depresion.mp3",
       "image": "noun-sound-1560834.svg",
@@ -1995,7 +1995,7 @@
     },
     {
       "id": 161,
-      "name": "Isocronico inteligencia",
+      "name": "73hz",
       "describe": "Intelligence",
       "sound": "isocronico_inteligencia.mp3",
       "image": "noun-sound-1560834.svg",
@@ -2007,7 +2007,7 @@
     },
     {
       "id": 162,
-      "name": "Isocronico jaqueca",
+      "name": "23hz",
       "describe": "Headache",
       "sound": "isocronico_jaqueca.mp3",
       "image": "noun-sound-1560834.svg",
@@ -2019,7 +2019,7 @@
     },
     {
       "id": 163,
-      "name": "Isocronico regeneracion",
+      "name": "144hz",
       "describe": "Regeneration",
       "sound": "isocronico_regeneracion.mp3",
       "image": "noun-sound-1560834.svg",
@@ -2364,8 +2364,8 @@
     },
     {
       "id": 191,
-      "name": "Sky full of stars",
-      "describe": "The starry sky, the stars twinkling in the distance",
+      "name": "Bầu trời đầy sao",
+      "describe": "Bầu trời đầy sao những ngôi sao lấp lánh vô dịnh trong khoảng không",
       "sound": "peacefulgarden.mp3",
       "image": "902a7cc9c4bc9f31024c7475c13b5f31.jpg",
       "tag": [
@@ -2376,8 +2376,8 @@
     },
     {
       "id": 192,
-      "name": "True love",
-      "describe": "Love life? Feeling strangely light-hearted",
+      "name": "Tình yêu đích thực",
+      "describe": "Yêu đời? Cảm thấy có niềm vui nhẹ nhàng đến kỳ lạ",
       "sound": "ms01.mp3",
       "image": "0153d6f4c7efdd9f8aa1a56d7278ccb1.jpg",
       "tag": [
@@ -2388,8 +2388,8 @@
     },
     {
       "id": 193,
-      "name": "Doll",
-      "describe": "Cute but just an emotionless toy",
+      "name": "Búp bê",
+      "describe": "Dễ thương nhưng chỉ là một món đồ chơi không cảm xúc",
       "sound": "ADoll'sBeginning.mp3",
       "image": "e761884e2386a1dfb7c43ba4a2ddfdb0.jpg",
       "tag": [
@@ -2400,8 +2400,8 @@
     },
     {
       "id": 194,
-      "name": "Words that can't be said",
-      "describe": "Words that can't be said, whether...",
+      "name": "Những lời không thể nói",
+      "describe": "Những lời không thể nói, liệu rằng …",
       "sound": "unspokenWords.mp3",
       "image": "d35e8f581f006c58d171f20e3db7aba1.jpg",
       "tag": [
@@ -2412,8 +2412,8 @@
     },
     {
       "id": 195,
-      "name": "Tribute",
-      "describe": "Just exist in the mind, those memories",
+      "name": "Tưởng Nhớ",
+      "describe": "Cũng chỉ còn là tồn tại trong tâm trí, những kỷ niệm ấy",
       "sound": "InRemembrance.mp3",
       "image": "0007ea8d1b4f087ce93f4e5e7ef635e5.jpg",
       "tag": [
@@ -2424,8 +2424,8 @@
     },
     {
       "id": 196,
-      "name": "Endless sky",
-      "describe": "Drifting your soul with the wind to the horizon",
+      "name": "Bầu trời vô tận",
+      "describe": "Thả trôi tâm hồn theo dòng cuốn của gió đưa đến chân trời",
       "sound": "DeepSleepCalmingRelaxingandSoothingMusic.mp3",
       "image": "2377643da9de98e9a27e4bb9eed9affb.jpg",
       "tag": [
@@ -2438,8 +2438,8 @@
     },
     {
       "id": 197,
-      "name": "Reflections",
-      "describe": "Thinking about what?",
+      "name": "Suy tư",
+      "describe": "Nghĩ suy về điều gì?",
       "sound": "MinuteSuperDeepMeditationMusic.mp3",
       "image": "9ea757e518f794bfdb58def29bc212c5.jpg",
       "tag": [
@@ -2463,8 +2463,8 @@
     },
     {
       "id": 199,
-      "name": "Soul space",
-      "describe": "The void clears the mind, resets the state of the soul",
+      "name": "Không gian linh hồn",
+      "describe": "Khoảng không làm sạch tâm trí, đặt lại trạng thái tâm hồn",
       "sound": "DeepSleepin10MinutesSleep.mp3",
       "image": "496be08e014ab481351e79ed81f5ba35.jpg",
       "tag": [
@@ -2477,8 +2477,8 @@
     },
     {
       "id": 200,
-      "name": "BRAISED",
-      "describe": "BRAISED",
+      "name": "OM",
+      "describe": "OM",
       "sound": "15MinutesOMMeditation.mp3",
       "image": "6f96b861a62d37cec56513e60530f8cd.jpg",
       "tag": [
@@ -2489,8 +2489,8 @@
     },
     {
       "id": 201,
-      "name": "Where is Love?",
-      "describe": "Will love come on its own, or must it be sought? Where is it?",
+      "name": "Tình yêu ở nơi đâu?",
+      "describe": "Tình yêu liệu có tự đến, hay phải đi tìm? Nó ở đâu?",
       "sound": "WHERE_MY_LOVE.mp3",
       "image": "165a712429c6fd2a87be9ee62a184591.jpg",
       "tag": [
@@ -2501,8 +2501,8 @@
     },
     {
       "id": 202,
-      "name": "Statue",
-      "describe": "Has lost its emotions, just a statue with a set of emotions",
+      "name": "Bức tượng",
+      "describe": "Đã mất đi cảm xúc, chỉ còn là một bức tượng với một khuân cảm xúc đã định sẵn",
       "sound": "VisionsofGideon10min.mp3",
       "image": "e7ef03a7a20ec354bc791e4278af604f.jpg",
       "tag": [
@@ -2513,8 +2513,8 @@
     },
     {
       "id": 203,
-      "name": "Sad",
-      "describe": "Too many things are pent up in the mind, need to re-center the heart",
+      "name": "Buồn",
+      "describe": "Quá nhiều thứ dồn nén đến tâm trí, cần định tâm lại trái tim",
       "sound": "SadPianoMusic.mp3",
       "image": "ec96e5f1682c91c7df29e71134b0b103.jpg",
       "tag": [
@@ -2525,8 +2525,8 @@
     },
     {
       "id": 204,
-      "name": "Lose your heart",
-      "describe": "Love also brings happiness but happiness also disappears if you lose your heart",
+      "name": "Mất đi trái tim",
+      "describe": "Tình yêu cũng đem đến sự hạnh phúc nhưng hạnh phúc cũng sẽ biến mất nếu bị mất đi trái tim",
       "sound": "oneheart.mp3",
       "image": "7d773a68c6d5f27e495dae057d463239.jpg",
       "tag": [
@@ -2538,8 +2538,8 @@
     },
     {
       "id": 205,
-      "name": "Brighten",
-      "describe": "A ray of light in the dark, dark space",
+      "name": "Bừng sáng",
+      "describe": "Tia sáng loé trong khoảng không tối tăm mù mịt",
       "sound": "aglow.mp3",
       "image": "82f94ca615dde77ffb2e7226f83db795.jpg",
       "tag": [
@@ -2552,8 +2552,8 @@
     },
     {
       "id": 206,
-      "name": "End",
-      "describe": "So it's over?",
+      "name": "Kết thúc",
+      "describe": "Vậy là kết thúc rồi?",
       "sound": "close.mp3",
       "image": "b32886ede8accf67c79702d4a14baf2d.jpg",
       "tag": [
@@ -2566,8 +2566,8 @@
     },
     {
       "id": 207,
-      "name": "Sad footage",
-      "describe": "Sad footage, watching the footage is like going back in time",
+      "name": "Thước phim buồn",
+      "describe": "Thước phim buồn, xem lại thước phim cũng như đang quay lại quá khứ",
       "sound": "SadCinematic.mp3",
       "image": "8ac1dd793b41d9bd397f20f0693273b0.jpg",
       "tag": [
@@ -2579,8 +2579,8 @@
     },
     {
       "id": 208,
-      "name": "I want you",
-      "describe": "I want you, really want. Emotions overflow, heart beat impatient",
+      "name": "Tôi muốn cậu",
+      "describe": "Tôi muốn cậu, rất muốn. Cảm xúc trào dâng, nhịp tim mất kiên nhẫn",
       "sound": "iWantY.mp3",
       "image": "13bbc63ddf091ddc95586996a536c121.jpg",
       "tag": [
@@ -2591,8 +2591,8 @@
     },
     {
       "id": 209,
-      "name": "Past",
-      "describe": "The past should be let go",
+      "name": "Quá khứ",
+      "describe": "Quá khứ nên để cho qua",
       "sound": "SadEmotional.mp3",
       "image": "483484605b371264ee9110cb669a3f78.jpg",
       "tag": [
@@ -2603,8 +2603,8 @@
     },
     {
       "id": 210,
-      "name": "Pressure of life",
-      "describe": "Life pressure, tired of everything, why do I exist?",
+      "name": "Áp lực cuộc sống",
+      "describe": "Áp lực cuộc sống, mệt mọi với mọi thứ, tại sao mình tồn tại?",
       "sound": "SadEpicEmotional.mp3",
       "image": "683c2d9752625019063ee5403b4ae2ce.jpg",
       "tag": [
@@ -2615,8 +2615,8 @@
     },
     {
       "id": 211,
-      "name": "Rain erases the past",
-      "describe": "Rain erases the past, washes away all the troubles",
+      "name": "Mưa xoá quá khứ",
+      "describe": "Mưa xoá quá khứ, rửa trôi đi mọi muộn phiền",
       "sound": "SoundofRain.mp3",
       "image": "0600f774ec403dc14d6eb2d7886abe0b.jpg",
       "tag": [
@@ -2628,8 +2628,8 @@
     },
     {
       "id": 212,
-      "name": "Stream",
-      "describe": "The stream is murmuring, relaxing",
+      "name": "Dòng suối",
+      "describe": "Dòng suối chảy róc rách, thư giãn",
       "sound": "SleepMeditation.mp3",
       "image": "4e29551408f594fb48bee48885ab14a1.jpg",
       "tag": [
@@ -2645,8 +2645,8 @@
     },
     {
       "id": 213,
-      "name": "Free",
-      "describe": "Music that brings practice, healing",
+      "name": "Tự do",
+      "describe": "Bản nhạc đem đến sự tập tung, chữa lành",
       "sound": "Healing.mp3",
       "image": "c45d432b9081519d648e8dea67d586ca.jpg",
       "tag": [
@@ -2660,8 +2660,8 @@
     },
     {
       "id": 214,
-      "name": "Freedom Island",
-      "describe": "Freedom Island",
+      "name": "Hòn đảo tự do",
+      "describe": "Hòn đảo tự do",
       "sound": "Ocean.mp3",
       "image": "9710e808cffd595d96c8d136107a0dc0.jpg",
       "tag": [
@@ -2677,8 +2677,8 @@
     },
     {
       "id": 215,
-      "name": "Universe",
-      "describe": "No matter how vast the universe is, believe that it still has an limit",
+      "name": "Vũ trụ",
+      "describe": "Vũ trụ bao la đến đâu nhưng tin rằng nó vẫn có cực hạn",
       "sound": "vutru.mp3",
       "image": "8e6e0b3964548962f6e231f27d9e1252.jpg",
       "tag": [
@@ -2693,8 +2693,8 @@
     },
     {
       "id": 216,
-      "name": "Dream sky",
-      "describe": "The sky of dreams brings good things",
+      "name": "Bầu trời giấc mơ",
+      "describe": "Bầu trời giấc mơ đưa đến những điều tốt đẹp",
       "sound": "SkyfulofDreams.mp3",
       "image": "01a5dcfbcfd3a1a429111c02ecbfab42.jpg",
       "tag": [
@@ -2709,8 +2709,8 @@
     },
     {
       "id": 217,
-      "name": "Galaxy",
-      "describe": "The Milky Way, the colorful stars and the chaotic mind",
+      "name": "Dải ngân hà",
+      "describe": "Dải ngân hà những ngôi sao nhiều sắc màu cũng như tâm trí hỗn loạn",
       "sound": "Breksta.mp3",
       "image": "1bb1113a68bbe691ba99a910c260e268.jpg",
       "tag": [
@@ -2725,8 +2725,8 @@
     },
     {
       "id": 218,
-      "name": "Pure mind",
-      "describe": "The mind has no more thoughts, just empty",
+      "name": "Tịnh tâm",
+      "describe": "Tâm trí không còn những suy nghĩ, chỉ còn trống rỗng",
       "sound": "RootChakraCleansing.mp3",
       "image": "42daf46c3c4b0ff99e11343ea4b76381.jpg",
       "tag": [
@@ -2738,8 +2738,8 @@
     },
     {
       "id": 219,
-      "name": "Bird world",
-      "describe": "Bird world",
+      "name": "Thế giới loài chim",
+      "describe": "Thế giới loài chim",
       "sound": " BirdSongs.mp3",
       "image": "6005dd5f12f09cceeeb3bdbe52401af3.jpg",
       "tag": [
@@ -2754,8 +2754,8 @@
     },
     {
       "id": 220,
-      "name": "Waterfall",
-      "describe": "Waterfall",
+      "name": "Thác nước",
+      "describe": "Thác nước",
       "sound": "thacnuoc.mp3",
       "image": "de9346b5a6f46fe30dcf0d0d407314df.jpg",
       "tag": [
@@ -2770,8 +2770,8 @@
     },
     {
       "id": 221,
-      "name": "dandelion",
-      "describe": "Dandelion and the wind bring sorrow, bring concentration",
+      "name": "Bồ công anh",
+      "describe": "Bồ công anh cùng gió đem theo phiền muộn, mang đến tập trung",
       "sound": "Nature.mp3",
       "image": "af9452b57464a4fbd897880fd2e0f9db.jpg",
       "tag": [
@@ -2785,8 +2785,8 @@
     },
     {
       "id": 222,
-      "name": "Concentrate",
-      "describe": "Extreme concentration, eliminating distracting thoughts",
+      "name": "Tập trung",
+      "describe": "Tập trung cực độ, loại bỏ những ý nghĩ gây nhiễu",
       "sound": "HealingNature.mp3",
       "image": "97fb701d91191119e0c86b3e8a0422b3.jpg",
       "tag": [
@@ -2799,8 +2799,8 @@
     },
     {
       "id": 223,
-      "name": "Clear",
-      "describe": "Never felt so strangely relieved",
+      "name": "Trong veo",
+      "describe": "Chưa bao giờ thấy nhẹ nhõm một cách kỳ lạ đến vậy",
       "sound": "RelaxingMusic.mp3",
       "image": "832ca390fc72b8e644ef91d867e8fa8b.jpg",
       "tag": [
@@ -2815,8 +2815,8 @@
     },
     {
       "id": 224,
-      "name": "Autumn",
-      "describe": "Autumn",
+      "name": "Mùa thu",
+      "describe": "Mùa thu",
       "sound": "AutumnFog-RelaxingpianomusicCalmingMusicRelaxingmusic.mp3",
       "image": "e7dc979d750b5dae358d75444e46d6a9.jpg",
       "tag": [
@@ -2832,8 +2832,8 @@
     },
     {
       "id": 225,
-      "name": "Through the window box",
-      "describe": "Through the window box",
+      "name": "Qua ô của sổ",
+      "describe": "Qua ô của sổ",
       "sound": "AmbientMusic-peacefulcalmpianomusicstudyfocus.mp3",
       "image": "d85f6ff24aadfbd88288c7266c2c028a.jpg",
       "tag": [
@@ -2849,8 +2849,8 @@
     },
     {
       "id": 226,
-      "name": "Beautiful",
-      "describe": "Beautiful",
+      "name": "Xinh đẹp",
+      "describe": "Xinh đẹp",
       "sound": "BeautifulPianoMusicMusicforStressReliefMeditationMusicMusicforreadingandstudying.mp3",
       "image": "f917ad52b8a56f0c47cd31dcd9b51001.jpg",
       "tag": [
@@ -2866,8 +2866,8 @@
     },
     {
       "id": 227,
-      "name": "Sky",
-      "describe": "Sky",
+      "name": "Bầu trời",
+      "describe": "Bầu trời",
       "sound": "Beautifulrelaxingmusic-AntidepressiveMusic-Antistressmusic.mp3",
       "image": "832192ec5a509616ad655b0d6004d981.jpg",
       "tag": [
@@ -2883,8 +2883,8 @@
     },
     {
       "id": 228,
-      "name": "Completed November",
-      "describe": "Completed November",
+      "name": "Hoàn hôn tháng 11",
+      "describe": "Hoàn hôn tháng 11",
       "sound": "BeautifulRelaxingMusicPeacefulInstrumentalMusic",
       "NovemberRelax": ".mp3",
       "image": "b1390892f03c1bc5472c43dc5ccbe8ba.jpg",
@@ -2901,8 +2901,8 @@
     },
     {
       "id": 229,
-      "name": "Dawn",
-      "describe": "Dawn",
+      "name": "Bình minh",
+      "describe": "Bình minh",
       "sound": "BeautifulRelaxingMusicPeacefulSoothingInstrumentalMusic.mp3",
       "image": "624b9d13765164121e181ca4513226c2.jpg",
       "tag": [
@@ -2918,8 +2918,8 @@
     },
     {
       "id": 230,
-      "name": "Early frost",
-      "describe": "Early frost",
+      "name": "Sương sớm",
+      "describe": "Sương sớm",
       "sound": "BeautifulRelaxingPianoMusicForStressReliefStudyandMeditation.mp3",
       "image": "d3bac5dcc6a97dc11d73498bfee96c0d.jpg",
       "tag": [
@@ -2935,8 +2935,8 @@
     },
     {
       "id": 231,
-      "name": "Sleep",
-      "describe": "Healing music leads to deep sleep",
+      "name": "Giấc ngủ",
+      "describe": "Âm nhạc chữa lành đưa đến giấc ngủ sâu",
       "sound": "DeepSleepCalmingRelaxingandSoothingMusic.mp3",
       "image": "58332fc2bf5e7bd234c08643f2bbbc67.jpg",
       "tag": [
@@ -2952,8 +2952,8 @@
     },
     {
       "id": 232,
-      "name": "Dawn of the forest",
-      "describe": "Dawn of the forest, every ray of light crept through each leaf, everything works",
+      "name": "Bình minh cánh rừng",
+      "describe": "Bình minh cánh rừng, từng tia sáng len lỏi qua từng kẽ lá, vạn vật hoạt động",
       "sound": "HealingMusic♪PianoMusicForStressReliefPositiveEnergyMeditationMusicSleepMusic.mp3",
       "image": "36a06c7549c30df4ded6ace89a980cf7.jpg",
       "tag": [
@@ -2969,8 +2969,8 @@
     },
     {
       "id": 233,
-      "name": "The sun on the sea",
-      "describe": "The sun on the sea is floating but vague",
+      "name": "Mặt trời trên biển",
+      "describe": "Mặt trời trên biển lênh đênh mà mơ hồ",
       "sound": "Morningrelaxingpianomusic.mp3",
       "image": "7822074b3886583de12c80b4d0ab795e.jpg",
       "tag": [
@@ -2986,8 +2986,8 @@
     },
     {
       "id": 234,
-      "name": "Serene",
-      "describe": "Is the sea tired too?",
+      "name": "Biển lặng",
+      "describe": "Biển cũng thấy mệt mỏi sao? ",
       "sound": "Relaxmusicforstudyingfocusworkrelaxingstressreliefspacalmmindmusic.mp3",
       "image": "a4a9edba8c0fa5d55eaf80e883ae239e.jpg",
       "tag": [
@@ -3003,8 +3003,8 @@
     },
     {
       "id": 235,
-      "name": "Snow",
-      "describe": "Snow",
+      "name": "Tuyết rơi",
+      "describe": "Tuyết rơi",
       "sound": "RelaxingChristmasSoftPianoMusicSleepCalmRelax.mp3",
       "image": "4df0090b1c70821c8bded638ec44ee47.jpg",
       "tag": [
@@ -3020,8 +3020,8 @@
     },
     {
       "id": 236,
-      "name": "A rainy day",
-      "describe": "On a rainy day, emotions just soar",
+      "name": "Một ngày mưa",
+      "describe": "Một ngày mưa, cảm xúc cứ vậy mà dâng cao",
       "sound": "RelaxingMusic&RainSounds-BeautifulPianoMusicBackgroundMusicSleepMusic•You&Me.mp3",
       "image": "26d13889247809ff4fa4fa4bebe420c4.jpg",
       "tag": [
@@ -3038,8 +3038,8 @@
     },
     {
       "id": 237,
-      "name": "Room",
-      "describe": "Introverted? Just want to be alone right now?",
+      "name": "Căn phòng",
+      "describe": "Hướng nội? Chỉ muốn ở một mình ngay lúc này?",
       "sound": "RelaxingPianoandViolinMusicForStudyandFocus.mp3",
       "image": "683a7eeba5e6105d82a44dd205490bbf.jpg",
       "tag": [
@@ -3055,8 +3055,8 @@
     },
     {
       "id": 238,
-      "name": "Maple forest",
-      "describe": "Maple forest, the wind blows through, the forest is quiet",
+      "name": "Rừng phong",
+      "describe": "Rừng phong, con gió luồn qua, khu rừng vắng lặng",
       "sound": "RelaxingPianoMusic•SleepMusicMeditationMusicBackgroundMusicStudyMusic.mp3",
       "image": "4f5500a9130d4b9f8d4bf2da50d1777b.jpg",
       "tag": [
@@ -3072,8 +3072,8 @@
     },
     {
       "id": 239,
-      "name": "Coffee",
-      "describe": "Coffee",
+      "name": "Caffe",
+      "describe": "Caffe",
       "sound": "RelaxingPianoMusicMusicforStressReliefMeditationMusicMusicforreadingandstudying.mp3",
       "image": "e39575d90aabf77afd9cb71fda8b11c8.jpg",
       "tag": [
@@ -3089,8 +3089,8 @@
     },
     {
       "id": 240,
-      "name": "Mountains",
-      "describe": "Mountains",
+      "name": "Ngọn núi",
+      "describe": "Ngọn núi",
       "sound": "RelaxingPianoMusicMeditationMusicRelaxingMusicSoftMusicRelaxationMusic.mp3",
       "image": "0c65bf4d868d4df06900e51bae62eda6.jpg",
       "tag": [
@@ -3106,8 +3106,8 @@
     },
     {
       "id": 241,
-      "name": "Flower field",
-      "describe": "Flower field",
+      "name": "Cánh đồng hoa",
+      "describe": "Cánh đồng hoa",
       "sound": "SlowPeacefulandCalmingPianoMusic-StudyReadSleepMeditation.mp3",
       "image": "1e7f648e730e4de980f1e17ee79da6c5.jpg",
       "tag": [
@@ -3123,8 +3123,8 @@
     },
     {
       "id": 242,
-      "name": "Evening",
-      "describe": "Evening",
+      "name": "Chiều tối",
+      "describe": "Chiều tối",
       "sound": "SoothingSleepMusicRelaxingPianoMusicSleepingMusicFallAsleep.mp3",
       "image": "27abba72d5ee30780f716fe871e8320d.jpg",
       "tag": [
@@ -3140,8 +3140,8 @@
     },
     {
       "id": 243,
-      "name": "Lost",
-      "describe": "Lost",
+      "name": "Lạc",
+      "describe": "Lạc",
       "sound": "TheForestMaiden(SoloPiano).mp3",
       "image": "501aa00adff1bf485bdc594d040b5b96.jpg",
       "tag": [
@@ -3157,8 +3157,8 @@
     },
     {
       "id": 244,
-      "name": "Winter",
-      "describe": "Winter",
+      "name": "Mùa đông",
+      "describe": "Mùa đông",
       "sound": "Winterchill-PianoMusic•SleepMusicMeditationMusicBackgroundMusicStudyMusic.mp3",
       "image": "a16c040e0ea95737b8b287ab1a4440ef.jpg",
       "tag": [
